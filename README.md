@@ -1,3 +1,7 @@
+This project is currently incomplete, and looks like this:
+
+<img width="1267" alt="Screenshot" src="https://github.com/user-attachments/assets/cdb7869d-a39d-4d39-8f7e-ab2464f6cd85">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
