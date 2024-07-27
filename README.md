@@ -1,6 +1,6 @@
 This project is currently incomplete, and looks like this:
 
-<img width="1267" alt="Screenshot" src="https://github.com/user-attachments/assets/cdb7869d-a39d-4d39-8f7e-ab2464f6cd85">
+<img width="1267" alt="Screenshot 2024-07-27 193309" src="https://github.com/user-attachments/assets/78154f89-0b49-42c5-b4e9-463b9a2c296b">
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
